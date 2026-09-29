@@ -1,0 +1,27 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Generated minimap2 index
+*.mmi
+
+# Temporary/test files
+results/test_*
+*_backup.py
+
+# Logs
+logs/*
+
+# Large generated reference files
+reference/selected_chr_plus_provirus.fa
+reference/selected_chr_plus_provirus.fa.fai
+reference/selected_chr_plus_provirus.mmi

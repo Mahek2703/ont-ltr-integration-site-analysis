@@ -1,0 +1,225 @@
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 2
+
+257c0ddb-0668-43e2-ba4b-4a822e42ebcf 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 89 	BREAKPOINT: 120865490 	LTR: 91 - 179 	ORIENTATION: reverse_complement
+6032ceb5-fa2c-4e76-a77d-fb2bc82cdf1f 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 90 	BREAKPOINT: 120865490 	LTR: 90 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+c82e05dc-eb81-4334-8adb-152e48d56f4e 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 86 	BREAKPOINT: 120865490 	LTR: 94 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+73bc9563-ab87-47af-82d5-2e199bcd0e7a 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 89 	BREAKPOINT: 120865490 	LTR: 91 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+2dbd8b3d-f39b-4145-abcb-d7b1dc74ee35 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 89 	BREAKPOINT: 120865490 	LTR: 91 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+6f592637-0b32-446d-a7e2-2a18ad926d10 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 28 	BREAKPOINT: 4083263 	LTR: 91 - 118 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+1094d475-1254-480d-9d30-90cedc4db563 	CHR: 9 	MAPQ: 0 	SIDE: left 	CLIP: 34 	BREAKPOINT: 42120176 	LTR: 90 - 123 	ORIENTATION: forward
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+f837dfd3-90c1-41a9-8ed7-5ad5e2a438a2 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 90 	BREAKPOINT: 120865490 	LTR: 90 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+a5809c77-2e54-4e07-96e3-3a91e207b27b 	CHR: 2 	MAPQ: 60 	SIDE: right 	CLIP: 23 	BREAKPOINT: 66315975 	LTR: 92 - 114 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+82f2baa8-a743-47be-8736-870e56cbfc31 	CHR: 7 	MAPQ: 60 	SIDE: right 	CLIP: 115 	BREAKPOINT: 21552438 	LTR: 90 - 204 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+8865972d-099a-4824-b6fc-e22f4ac7ba40 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 88 	BREAKPOINT: 120865490 	LTR: 92 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+68dcb2c4-3c7e-446a-911a-ad1c820c575b 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 89 	BREAKPOINT: 120865490 	LTR: 91 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+85b6e419-392c-4967-b0c5-00104f05056d 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 37 	BREAKPOINT: 120865490 	LTR: 143 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+9fcc9435-8864-4b1f-85eb-8b219484efdb 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 88 	BREAKPOINT: 120865490 	LTR: 92 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+471a2e8f-3343-4119-9506-a5377e512edc 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 32 	BREAKPOINT: 115354578 	LTR: 90 - 121 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 2
+
+228b052e-b0b5-4133-88b4-4223be4e9f48 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 89 	BREAKPOINT: 120865490 	LTR: 91 - 179 	ORIENTATION: reverse_complement
+dbd17180-3651-4049-841e-0a8d73b8f2f7 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 88 	BREAKPOINT: 120865490 	LTR: 92 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 1
+
+5daf7657-6a56-4d84-932b-4257008c6286 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 87 	BREAKPOINT: 120865490 	LTR: 93 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 2
+
+971b93fc-fec4-48de-8904-92cea086ea44 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 89 	BREAKPOINT: 120865490 	LTR: 91 - 179 	ORIENTATION: reverse_complement
+cc439959-8433-40cd-b15f-e827179e4ea8 	CHR: 12 	MAPQ: 60 	SIDE: right 	CLIP: 88 	BREAKPOINT: 120865490 	LTR: 92 - 179 	ORIENTATION: reverse_complement
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+
+Canonical LTR length: 3628
+Minimum exact soft-clip length: 20
+
+Exact LTR soft-clip matches: 0
+

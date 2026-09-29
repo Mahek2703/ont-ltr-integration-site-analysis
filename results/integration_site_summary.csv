@@ -1,0 +1,7 @@
+chr,position,supporting_reads,min_mapq,max_mapq,mean_clip_length,min_clip_length,max_clip_length,qc_flag
+chr12,4083263,1,60,60,28.0,28,28,single_read_MAPQ60
+chr12,115354578,1,60,60,32.0,32,32,single_read_MAPQ60
+chr12,120865490,15,60,60,85.1,37,90,multi_read_MAPQ60
+chr2,66315975,1,60,60,23.0,23,23,single_read_MAPQ60
+chr7,21552438,1,60,60,115.0,115,115,single_read_MAPQ60
+chr9,42120176,1,0,0,34.0,34,34,single_read_MAPQ0
