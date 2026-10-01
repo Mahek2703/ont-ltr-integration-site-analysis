@@ -25,3 +25,4 @@ logs/*
 reference/selected_chr_plus_provirus.fa
 reference/selected_chr_plus_provirus.fa.fai
 reference/selected_chr_plus_provirus.mmi
+reference/canonical_LTR.fa
