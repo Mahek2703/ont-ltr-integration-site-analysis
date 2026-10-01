@@ -1,4 +1,4 @@
-# ONT LTR-Based Integration Site Analysis
+# Lentiviral Integration Site Analysis
 
 ## Overview
 
@@ -36,24 +36,17 @@ ONT reads
 
 ## Experimental Primers
 
-Biotinylated LTR primer:
+Biotinylated LTR primer
 
-Biotin-GAGCTCTCTGGCTAACTAGG
+LTR primer
 
-Final PCR LTR primer:
-
-GAGCTCTCTGGCTAACTAGG
-
-Linker cassette primer:
-
-GACCCGGGAGATCTGAATTC
+Linker cassette primer
 
 ## Results
 
 A total of 20 exact LTR-supporting reads were identified across 6 candidate genomic positions.
 
 | Candidate site | Reads | MAPQ |
-|---|---:|---:|
 | chr12:4,083,263 | 1 | 60 |
 | chr12:115,354,578 | 1 | 60 |
 | chr12:120,865,490 | 15 | 60 |
@@ -65,9 +58,9 @@ chr12:120,865,490 showed the strongest repeated read-level support, accounting f
 
 ## Repository
 
-scripts/    → analysis scripts
-reference/  → reference sequences
-results/    → final result tables
+scripts   → analysis scripts
+reference → reference sequences
+results   → final result tables
 
 Main outputs:
 
@@ -79,8 +72,8 @@ Large sequencing and alignment files are excluded from the repository.
 
 ## Conclusion
 
-This workflow identifies candidate LTR–genome junctions from ONT reads.
+This project was developed as a practical learning exercise to explore an ONT-based workflow for identifying candidate LTR–genome junctions.
 
-Under the applied computational criteria, chr12:120,865,490 is the most strongly supported candidate in this dataset.
+The analysis provided hands-on experience with sequence alignment, BAM-file analysis, soft-clip detection, LTR matching, breakpoint identification, and candidate integration-site analysis. A candidate site on chromosome 12 was further inspected visually using the UCSC Genome Browser, where it was located within the SPPL3 gene region.
 
-Candidate sites require independent experimental validation for confirmation.
+The results presented in this repository demonstrate the computational workflow and analytical approach rather than establish a biological finding. Experimental validation would be required to confirm the integration site.
