@@ -13,7 +13,7 @@ Genomic DNA
 → Streptavidin bead capture
 → Second-strand synthesis
 → Linker ligation
-→ Final PCR
+→ nested PCR
 → ONT sequencing
 
 ### Dry Lab
